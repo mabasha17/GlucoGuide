@@ -2,6 +2,10 @@
 
 A Gemini (Google Generative AI)-based chatbot for diabetes-related queries, supporting multiple Indian languages and structured conversations via Streamlit UI.
 
+## Application Live Demo
+![image](https://github.com/user-attachments/assets/2b6d7df5-a6b1-4ed2-95c9-ff9b2ea65cc3)
+![image](https://github.com/user-attachments/assets/79de632d-d1ef-4968-8859-9b52167d7306)
+
 ## Features
 
 - Multi-turn Q&A with Gemini (Google Generative AI)
@@ -41,3 +45,5 @@ A Gemini (Google Generative AI)-based chatbot for diabetes-related queries, supp
 - Select your language
 - Ask diabetes-related questions
 - Download/export chat as needed
+
+
